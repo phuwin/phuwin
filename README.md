@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am a Master's degree student based in Tampere an
 </p>
 
 ## 📈 GitHub Stats
-![Phuwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuwin&show_icons=true&theme=date_night)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuwin&layout=compact&theme=date_night)
+![Phuwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuwin&show_icons=true&theme=date_night&rank_icon=github)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuwin&layout=compact&theme=date_night)
 
 ## 📫 Let's Connect
 - 📧 Email: [ngp130895@gmail.com](mailto:ngp130895@gmail.com)
