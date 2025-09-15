@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a Master's degree student based in Tampere an
 
 ## 🚀 About Me
 - 🎓 **Master's Degree Student:** Currently pursuing my Master's in Tampere, Finland.
-- 💼 **Work Status:** I am currently working at **Aller Media**, where I focus on software development and DevOps practices.
+- 💼 **Work Status:** I am currently working at **Reaktor** as a consultant.
 - 🖥️ **Tech Enthusiast:** I specialize in building modern web applications and scalable systems.
 - ✨ **Philosophy:** I believe in **clean, maintainable, and efficient code** that stands the test of time.
 - 🎸 **Music Lover:** I play the guitar, bass, and sing. I was also part of the **conscript band of the Guard's Band in Helsinki**.
