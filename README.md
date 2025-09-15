@@ -1,6 +1,6 @@
 # Hi there, I'm Phuwin 👋
 
-Welcome to my GitHub profile! I am a Master's degree student based in Tampere and currently working at **Aller Media**. I have a passion for software development, cloud computing, and DevOps. Here’s a bit about me:
+Welcome to my GitHub profile! I am a Master's degree student based in Tampere and currently working at **Reaktor**. I have a passion for software development, cloud computing, and DevOps. Here’s a bit about me:
 
 ## 🚀 About Me
 - 🎓 **Master's Degree Student:** Currently pursuing my Master's in Tampere, Finland.
